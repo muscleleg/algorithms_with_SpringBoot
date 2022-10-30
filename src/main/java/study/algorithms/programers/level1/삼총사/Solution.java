@@ -1,4 +1,4 @@
-package study.algorithms.programers.level1삼총사;
+package study.algorithms.programers.level1.삼총사;
 
 public class Solution {
     public int solution(int[] number) {
